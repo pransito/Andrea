@@ -11,7 +11,9 @@ A Biologically Plausible nengo action selection model
 Task:
 
 Two-armed bandit task
+
 Trial by trial: PAUSE - WATCH - CHOOSE/REWARD
+
 Agent has to learn the probability of winning of either bandit
 
 
